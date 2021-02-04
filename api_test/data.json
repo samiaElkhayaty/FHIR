@@ -1,0 +1,21 @@
+r{
+ "ressourceType":"Organisation",
+ "Nom":"Abreu",
+ "Prenom":"Tiago",
+ "age":38,
+ "Adresse":"27 rue de Paris, 94400, France",
+ 
+ "Vaccins":[
+         {
+                 "Tétanos":"Oui",
+                 "Rubéole":"Oui",
+                 "Rougeole":"Oui",
+                 "Poliomyélite":"Oui",
+                 "Coqueluche":"Oui"
+                 }
+         
+         ]
+ 
+ 
+ 
+ }
